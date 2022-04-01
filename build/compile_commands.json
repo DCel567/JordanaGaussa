@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/george/Programming/Workspaces/VS Code Workspace/CPP/jordana/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/main.cpp.o -c \"/home/george/Programming/Workspaces/VS Code Workspace/CPP/jordana/main.cpp\"",
+  "file": "/home/george/Programming/Workspaces/VS Code Workspace/CPP/jordana/main.cpp"
+}
+]
